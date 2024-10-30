@@ -1,0 +1,160 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+
+# Django environment variables #
+.env
+
+# Virtual environment folders #
+venv/
+env/
+.venv/
+
+# macOS metadata files #
+.DS_Store
+
+# Byte-compiled / optimized / DLL files #
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Test logs
+coverage_html_report/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Django migrations #
+*/migrations/
+
+# pyenv #
+.python-version
+
+# mypy #
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker #
+.pyre/
+
+# Flask specific #
+instance/
+.webassets-cache
+
+# Scrapy stuff #
+.scrapy
+
+# Jupyter Notebook #
+.ipynb_checkpoints
+
+# Environments #
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm #
+.idea/
+
+# VS Code #
+.vscode/
+
+# Rider #
+.idea/
+
+# Local history for VSCode/Rider/etc #
+.local_history/
+
+# Pytest cache #
+.pytest_cache/
+
+# SQLAlchemy #
+*.db
+
+# Sublime Text #
+*.sublime-workspace
+*.sublime-project
+
+# Vim #
+*.swp
+*.swo
+
+# vscode or other IDE-specific settings files #
+.vscode/
+*.code-workspace
+
+# pipenv #
+pipfile.lock
+pipfile
+
+# log files #
+*.log
+
+# Other Django-specific files #
+staticfiles/
+media/
+
+# Pycharm and other IDE-specific files #
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Coverage reports
+.coverage
+*.cover
+.hypothesis/
+.tox/
+.pytest_cache/
+.cache/
+nosetests.xml
+coverage.xml
+*.coveragerc
+*.log
+*.pid
+*.seed
+*.swp
+
+# Sphinx documentation #
+docs/_build/
+
+# mypy #
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Unit test / coverage reports #
+htmlcov/
+.tox/
+noxfile.py
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Ansible #
+.vagrant/
+
+# Jupyter Notebook #
+.ipynb_checkpoints
+
+# PyCharm specific #
+.idea/
+*.iml
+
+# End of list #
